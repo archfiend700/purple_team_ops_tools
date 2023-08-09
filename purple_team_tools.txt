@@ -1,0 +1,48 @@
+Tools 2 be cloned ;) - note: hacking, phishing tools to play around with or do red team stuff with
+https://awesomeopensource.com/projects/python/threat-intelligence - The Top 23 Python Threat Intelligence Open Source Projects
+https://github.com/RoseSecurity/ScrapPY - ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate targeted wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks.
+https://sygnialabs.github.io/DROPS/ - Dynamic Cheatsheet
+https://awesomeopensource.com/project/andrewmichaelsmith/bluepot - Bluetooth Honeypot
+https://awesomeopensource.com/project/NullArray/AutoSploit - Automated Mass Exploiter
+https://github.com/kunpen/Havoc-C2 - Havoc is a modern and malleable post-exploitation command and control framework
+https://github.com/giuliacassara/awesome-social-engineering - Social engineering tools
+https://github.com/KasRoudra/PyPhisher - Python script used for creating phishing templates
+https://github.com/iperov/DeepFacelive - potential phishing tool (?)
+https://www.geeksforgeeks.org/grim-information-gathering-tool-in-kali-linux/?ref=rp - hacking tools
+
+
+Blue team oriented tools
+https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607 - Bellingcat toolkit
+https://www.sans.org/tools/?msc=main-nav - Opensans cybersecurity tools
+https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/ - Opensans OSINT tools
+https://phishtank.org/ - Phishing investigation tool
+https://cybergordon.com/ - all in one threat report for IP addresses and web domains
+https://toolbox.googleapps.com/apps/main/ - google admin toolbox
+https://github.com/Purp1eW0lf/Blue-Team-Notes - Notes useful to blue team operators
+https://awesomeopensource.com/project/Te-k/harpoon - CLI tool for open source and threat intelligence
+https://awesomeopensource.com/project/tomchop/malcom - Malcom - Malware Communications Analyzer
+https://securityonionsolutions.com/software - Security Onion is a free and open Linux distribution for threat hunting, enterprise security monitoring, and log management. 
+https://github.com/mattnotmax/cyberchef-recipes - Cyberchef recipes
+https://github.com/Yara-Rules/rules
+https://github.com/daffainfo/suricata-rules
+
+
+
+Guides, news and other information sources
+welivesecurity.com - ESET news source
+https://www.softwaretestinghelp.com/windows-cmd-commands/ - list of Windows commands
+https://thedfirreport.com/ - real life stories 
+https://lolbas-project.github.io/ - list of living off the land binaries and libs
+https://github.com/certsocietegenerale/IRM - Incident Response Methodologies 2022
+https://book.hacktricks.xyz/welcome/readme - Methodology and hacking tricks
+https://zeltser.com/analyzing-malicious-documents/ - analyzing malicious documents
+https://gtfobins.github.io/ - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+https://www.ionos.com/digitalguide/ - general IT guides
+https://cheatsheetseries.owasp.org/index.html - OWASP cheatsheet
+https://antispoofing.org/ - Biometric security, spoofing attacks etc.
+https://sector035.nl/articles/category:week-in-osint - Osint news
+https://www.robtex.com/ - Robtex uses various sources to gather public information about IP numbers, domain names, host names, Autonomous systems, routes etc. It then indexes the data in a big database and provide free access to the data.
+
+
+
+
