@@ -27,6 +27,19 @@ https://github.com/Yara-Rules/rules
 https://github.com/daffainfo/suricata-rules
 
 
+OSINT: 
+https://advocacyassembly.org/en/courses - OSINT courses from Amnesty International
+
+https://osr4rights.org/technical-tools/ - list of tools for human rights violation investigations
+https://facecheck.id/ - search engine using face images 
+https://osr4rightstools.org/face-search - another face image search engine
+https://osr4rightstools.org/fire-map - can be used to monitor real-time fire data within set geographical parameters, incorporating NASA's Fire Information for Resource Management System (FIRMS) with a user-friendly map interface
+https://osr4rights.org/guide-to-osr/ - OSR OSINT tools
+https://osintframework.com/ - all in one framework
+https://github.com/DedSecInside/TorBot - "darkweb" OSINT tool
+https://www.hunch.ly/darkweb-osint/ - email darkweb reporting
+
+
 
 Guides, news and other information sources
 welivesecurity.com - ESET news source
