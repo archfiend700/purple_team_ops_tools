@@ -10,6 +10,10 @@ https://github.com/KasRoudra/PyPhisher - Python script used for creating phishin
 https://github.com/iperov/DeepFacelive - potential phishing tool (?)
 https://www.geeksforgeeks.org/grim-information-gathering-tool-in-kali-linux/?ref=rp - hacking tools
 
+Gamified learning tools: 
+https://github.com/milosilo - great github profile with cybersec oriented games, but also cool self hosted projects
+tryhackme.com - learning platform
+
 
 Blue team oriented tools
 https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607 - Bellingcat toolkit
@@ -26,6 +30,7 @@ https://github.com/mattnotmax/cyberchef-recipes - Cyberchef recipes
 https://github.com/Yara-Rules/rules
 https://github.com/daffainfo/suricata-rules
 
+a very, very special bonus: https://wazuh.com/ - open source SIEM and XDR tool - https://jacobriggs.io/blog/posts/how-to-install-a-wazuh-siem-server-on-a-raspberry-pi-4b-26.html, can be used on a home network easily :)
 
 OSINT: 
 https://advocacyassembly.org/en/courses - OSINT courses from Amnesty International
