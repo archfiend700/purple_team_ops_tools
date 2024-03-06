@@ -13,6 +13,8 @@ https://www.geeksforgeeks.org/grim-information-gathering-tool-in-kali-linux/?ref
 Gamified learning tools: 
 https://github.com/milosilo - great github profile with cybersec oriented games, but also cool self hosted projects
 tryhackme.com - learning platform
+hackthebox.com - awesome ctfs 
+
 
 
 Blue team oriented tools
